@@ -1,6 +1,6 @@
 # Ignite Lab 
 
-![preview](./assets/aaaq.png)
+![preview](./assets/example.gif)
 
 Projeto Front-End de uma página de login.
 
